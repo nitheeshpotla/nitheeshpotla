@@ -15,7 +15,7 @@
   - **AI-driven projects** that solve real-world challenges.  
   - **Open-source contributions** in distributed systems and robotics.  
   - **Hackathons** or team projects focusing on innovative tech like **IoT**, **Blockchain**, and **Augmented Reality**.  
-- 📫 How to reach me: **nitheeshpotla@example.com**, [LinkedIn](https://linkedin.com/in/nitheeshpotla), or [Twitter](https://twitter.com/nitheeshpotla).  
+- 📫 How to reach me: **nitheeshpotla2925@gmail.com**, [LinkedIn](https://linkedin.com/in/nitheeshpotla), or [Twitter](https://twitter.com/nitheeshpotla).  
 - 😄 Pronouns: **He/Him**  
 - 🌟 Highlights:  
   - Recently completed a **multipurpose autonomous bot** project using Python, Gazebo, and ROS, capable of real-world navigation and obstacle avoidance.  
